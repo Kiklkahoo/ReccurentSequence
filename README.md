@@ -1,2 +1,2 @@
 # ReccurentSequence
-simple script for findind an element in reccurent sequence
+simple script for finding an element in reccurent sequence
